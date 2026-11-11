@@ -46,7 +46,7 @@ while True:
                 print("Aucune tache ne contient ce mot-cle.")
 
     elif choix == "0":
-        print("Fin du programme. Au revoir !")
+        print("Fin du programme. A bientot !")
         break
 
 
